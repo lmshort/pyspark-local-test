@@ -1,5 +1,6 @@
 make sure pyspark version is the same as the spark version (3.2.2 in this case)
 
+
 Ensure the following variables are specified in the .bashrc
 (assuming the spark version is installed)
 
